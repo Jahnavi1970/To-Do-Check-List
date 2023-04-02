@@ -1,3 +1,6 @@
+# Deployment
+This web app is deployed on Netlify and can be accessed at https://peppy-duckanoo-a7124b.netlify.app/.
+
 # To-Do-Check-List
 To-Do Checklist Web App
 This is a simple to-do checklist MERN app that allows you to perform CRUD operations. You can add items to the list, delete them, and mark them as complete with a strike.
@@ -25,7 +28,6 @@ To run this web app, follow these steps:
 * Express.js
 * MongoDB
 * React
-
-# Deployment
-This web app is deployed on Netlify and can be accessed at https://peppy-duckanoo-a7124b.netlify.app/.
-
+ 
+ # Image Preview
+ ![image](https://user-images.githubusercontent.com/89038003/229374443-6a537b57-d30b-4e3a-86d9-1854d90a37b1.png)
