@@ -18,7 +18,7 @@ To run this web app, follow these steps:
 * Clone this repository to your local machine.
 * Install the dependencies by running the command npm install in the project directory.
 * Start the server by running the command npm start in the project directory.
-* Navigate to http://localhost:8000 in your web browser.
+* Navigate to http://localhost:3000 in your web browser.
 
 # Technologies Used
 * HTML
